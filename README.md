@@ -10,8 +10,8 @@ sum = 0
 for num in numbers:
     sum += num
 print("Sum of numbers in the list:", sum)
-And here is another code snippet that demonstrates how to sort a list of strings in alphabetical order:
 
+And here is another code snippet that demonstrates how to sort a list of strings in alphabetical order:
 python
 words = ["banana", "apple", "cherry", "date"]
 words.sort()
